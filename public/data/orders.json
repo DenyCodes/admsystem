@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ord_001",
+    "userId": "usr_005",
+    "status": "completed",
+    "items": [
+      { "id": "item_001", "productName": "Notebook Dell Inspiron", "quantity": 1, "unitPrice": 4500.00, "total": 4500.00 },
+      { "id": "item_002", "productName": "Mouse Logitech MX", "quantity": 2, "unitPrice": 350.00, "total": 700.00 }
+    ],
+    "subtotal": 5200.00,
+    "tax": 520.00,
+    "total": 5720.00,
+    "createdAt": "2024-06-15T10:30:00Z"
+  },
+  {
+    "id": "ord_002",
+    "userId": "usr_006",
+    "status": "processing",
+    "items": [
+      { "id": "item_003", "productName": "Monitor Samsung 27\"", "quantity": 1, "unitPrice": 1800.00, "total": 1800.00 }
+    ],
+    "subtotal": 1800.00,
+    "tax": 180.00,
+    "total": 1980.00,
+    "createdAt": "2024-06-20T14:00:00Z"
+  },
+  {
+    "id": "ord_003",
+    "userId": "usr_009",
+    "status": "pending",
+    "items": [
+      { "id": "item_004", "productName": "Teclado Mecânico Keychron", "quantity": 1, "unitPrice": 890.00, "total": 890.00 },
+      { "id": "item_005", "productName": "Webcam Logitech C920", "quantity": 1, "unitPrice": 550.00, "total": 550.00 },
+      { "id": "item_006", "productName": "Headset HyperX Cloud", "quantity": 1, "unitPrice": 680.00, "total": 680.00 }
+    ],
+    "subtotal": 2120.00,
+    "tax": 212.00,
+    "total": 2332.00,
+    "createdAt": "2024-07-01T09:15:00Z"
+  },
+  {
+    "id": "ord_004",
+    "userId": "usr_005",
+    "status": "completed",
+    "items": [
+      { "id": "item_007", "productName": "SSD Samsung 1TB", "quantity": 2, "unitPrice": 450.00, "total": 900.00 }
+    ],
+    "subtotal": 900.00,
+    "tax": 90.00,
+    "total": 990.00,
+    "createdAt": "2024-07-05T16:45:00Z"
+  },
+  {
+    "id": "ord_005",
+    "userId": "usr_006",
+    "status": "cancelled",
+    "items": [
+      { "id": "item_008", "productName": "iPhone 15 Pro", "quantity": 1, "unitPrice": 8500.00, "total": 8500.00 }
+    ],
+    "subtotal": 8500.00,
+    "tax": 850.00,
+    "total": 9350.00,
+    "createdAt": "2024-07-10T11:00:00Z"
+  },
+  {
+    "id": "ord_006",
+    "userId": "usr_009",
+    "status": "completed",
+    "items": [
+      { "id": "item_009", "productName": "Cadeira Gamer DXRacer", "quantity": 1, "unitPrice": 2200.00, "total": 2200.00 },
+      { "id": "item_010", "productName": "Mesa Gamer RGB", "quantity": 1, "unitPrice": 1500.00, "total": 1500.00 }
+    ],
+    "subtotal": 3700.00,
+    "tax": 370.00,
+    "total": 4070.00,
+    "createdAt": "2024-07-15T08:30:00Z"
+  },
+  {
+    "id": "ord_007",
+    "userId": "usr_005",
+    "status": "processing",
+    "items": [
+      { "id": "item_011", "productName": "MacBook Air M3", "quantity": 1, "unitPrice": 12000.00, "total": 12000.00 }
+    ],
+    "subtotal": 12000.00,
+    "tax": 1200.00,
+    "total": 13200.00,
+    "createdAt": "2024-07-20T13:20:00Z"
+  },
+  {
+    "id": "ord_008",
+    "userId": "usr_006",
+    "status": "pending",
+    "items": [
+      { "id": "item_012", "productName": "iPad Pro 12.9\"", "quantity": 1, "unitPrice": 9800.00, "total": 9800.00 },
+      { "id": "item_013", "productName": "Apple Pencil 2", "quantity": 1, "unitPrice": 1200.00, "total": 1200.00 }
+    ],
+    "subtotal": 11000.00,
+    "tax": 1100.00,
+    "total": 12100.00,
+    "createdAt": "2024-07-25T10:00:00Z"
+  }
+]
+

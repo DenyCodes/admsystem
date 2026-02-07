@@ -1,0 +1,93 @@
+[
+  {
+    "id": "usr_001",
+    "name": "Carlos Silva",
+    "email": "carlos.silva@email.com",
+    "role": "admin",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "usr_002",
+    "name": "Maria Santos",
+    "email": "maria.santos@email.com",
+    "role": "manager",
+    "country": "Portugal",
+    "status": "active",
+    "createdAt": "2024-02-20T14:15:00Z"
+  },
+  {
+    "id": "usr_003",
+    "name": "João Oliveira",
+    "email": "joao.oliveira@email.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-03-10T09:00:00Z"
+  },
+  {
+    "id": "usr_004",
+    "name": "Ana Costa",
+    "email": "ana.costa@email.com",
+    "role": "seller",
+    "country": "Angola",
+    "status": "inactive",
+    "createdAt": "2024-03-25T16:45:00Z"
+  },
+  {
+    "id": "usr_005",
+    "name": "Pedro Ferreira",
+    "email": "pedro.ferreira@email.com",
+    "role": "customer",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-04-05T11:20:00Z"
+  },
+  {
+    "id": "usr_006",
+    "name": "Lucia Rodrigues",
+    "email": "lucia.rodrigues@email.com",
+    "role": "customer",
+    "country": "Moçambique",
+    "status": "active",
+    "createdAt": "2024-04-12T08:30:00Z"
+  },
+  {
+    "id": "usr_007",
+    "name": "Rafael Mendes",
+    "email": "rafael.mendes@email.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "inactive",
+    "createdAt": "2024-05-01T13:00:00Z"
+  },
+  {
+    "id": "usr_008",
+    "name": "Beatriz Almeida",
+    "email": "beatriz.almeida@email.com",
+    "role": "manager",
+    "country": "Portugal",
+    "status": "active",
+    "createdAt": "2024-05-15T10:00:00Z"
+  },
+  {
+    "id": "usr_009",
+    "name": "Fernando Lima",
+    "email": "fernando.lima@email.com",
+    "role": "customer",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-06-01T15:30:00Z"
+  },
+  {
+    "id": "usr_010",
+    "name": "Camila Souza",
+    "email": "camila.souza@email.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-06-20T09:45:00Z"
+  }
+]
+
